@@ -1,1 +1,1 @@
-# Fundamentals-with-Python---SoftUni
+# All basic training tasks
